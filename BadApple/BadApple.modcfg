@@ -1,0 +1,13 @@
+ModCFG
+{
+    title = BadApple
+    author = godarklight
+    modVersion = 0.1.0
+    Plugin
+    {
+        name = BadApple
+        description = You're a bad apple.
+        asmpath = Addons\BadApple\BadApple.dll
+        order = 100
+    }
+} 
